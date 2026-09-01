@@ -1,0 +1,7 @@
+main{
+        height : 80vh;
+}
+footer {
+        background-image: linear-gradient(to right, #00BA8B, #003F6D);
+        font-size : 24px;
+}
